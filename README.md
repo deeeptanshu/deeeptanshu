@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Deeptanshu Khandelwal 👋</h1>
 
-<!--
-**deeeptanshu/deeeptanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>B.Tech ECE @ SRM IST | Product Management | Business/Product Analyst | AI Enthusiast 🚀</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+🎓 I’m currently pursuing Electronics and Communication Engineering at SRM Institute of Science and Technology (2021–2025)
+
+🚀 Currently exploring AI/ML, Product Management & Data Engineering.
+
+💡 Passionate about solving real-world problems — from crypto prediction models to deep learning for satellite image classification
+
+🧠 Strong interests in Product Development, Data Analytics, and Applied AI
+
+📫 Reach me at deeptanshukhandelwal@gmail.com
+
+---
+
+### 🛠️ Tech Stack
+
+Languages: Python, R, C++
+
+AI & ML: Predictive Modeling, Neural Networks, LSTM, NLP
+
+Data Tools: SQL, Pandas, NumPy
+
+Visualization: Power BI, Tableau
+
+Simulation & Electronics: Ansys Icepak, CFD
+
+Tools: Git, GitHub, VS Code, PyCharm, Postman
+
+Cloud: AWS (Cloud Foundations, Data Engineering), GCP
+
+---
+
+### 🚀 Projects
+
+- 🔐 [Password Manager](https://github.com/ritikavyas/Password-Manager) — A secure, local-first password vault
+- 🏥 [Healthcare Webpage](https://github.com/ritikavyas/Healthcare-Webpage) — A frontend for health consultation
+- 🔑 Secure Password Vault using Python & File Encryption
+
+---
+
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeptanshu-khandelwal/)
+
+
+---
+
+*Thanks for visiting my profile ❤️*
