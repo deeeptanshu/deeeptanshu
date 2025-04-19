@@ -40,9 +40,9 @@ Cloud: AWS (Cloud Foundations, Data Engineering), GCP
 
 ### 🚀 Projects
 
-- 🔐 [Password Manager](https://github.com/ritikavyas/Password-Manager) — A secure, local-first password vault
-- 🏥 [Healthcare Webpage](https://github.com/ritikavyas/Healthcare-Webpage) — A frontend for health consultation
-- 🔑 Secure Password Vault using Python & File Encryption
+- 🔐 [Customer-Retention-Dashboard](https://github.com/deeeptanshu/Customer-Retention-Dashboard) — Power BI report for analyzing customer churn and retention metrics.
+- 🏥 [Customer-Churn-Analysis-PowerBI](https://github.com/deeeptanshu/Customer-Churn-Analysis-PowerBI) — Power BI dashboard analyzing churn drivers, customer profiles, and risk segments.
+  
 
 ---
 
