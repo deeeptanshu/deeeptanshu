@@ -42,7 +42,7 @@ Cloud: AWS (Cloud Foundations, Data Engineering), GCP
 
 - 🔐 [Customer-Retention-Dashboard](https://github.com/deeeptanshu/Customer-Retention-Dashboard) — Power BI report for analyzing customer churn and retention metrics.
 - 🏥 [Customer-Churn-Analysis-PowerBI](https://github.com/deeeptanshu/Customer-Churn-Analysis-PowerBI) — Power BI dashboard analyzing churn drivers, customer profiles, and risk segments.
-  
+- 💼 [BCG-Analysis-Project](https://github.com/deeeptanshu/BCG-Analysis-Project) — Financial data analysis and trend identification project for large companies.
 
 ---
 
