@@ -43,6 +43,8 @@ Cloud: AWS (Cloud Foundations, Data Engineering), GCP
 - 🔐 [Customer-Retention-Dashboard](https://github.com/deeeptanshu/Customer-Retention-Dashboard) — Power BI report for analyzing customer churn and retention metrics.
 - 🏥 [Customer-Churn-Analysis-PowerBI](https://github.com/deeeptanshu/Customer-Churn-Analysis-PowerBI) — Power BI dashboard analyzing churn drivers, customer profiles, and risk segments.
 - 💼 [BCG-Analysis-Project](https://github.com/deeeptanshu/BCGX-financial-analysis) — Financial data analysis and trend identification project for large companies.
+- 💬 [Financial Chatbot](https://github.com/deeeptanshu/financial-chatbot) — A Flask-based chatbot providing real-time financial data (revenue, net income, R&D, EPS, cash flow) using the Financial Modeling Prep API.
+
 
 ---
 
