@@ -51,7 +51,11 @@ Cloud: AWS (Cloud Foundations, Data Engineering), GCP
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeptanshu-khandelwal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeptanshu-khandelwal/)                 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:deeptanshukhandelwal@gmail.com)
+
+
+
+
 
 
 ---
