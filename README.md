@@ -40,8 +40,8 @@ Cloud: AWS (Cloud Foundations, Data Engineering), GCP
 
 ### 🚀 Projects
 
-- 🛰️ [LULC-Classification-DeepLearning](https://github.com/deeeptanshu/LULC-Classification-DeepLearning) — Real-time land use and land cover classification using satellite imagery and deep learning.
 - 🚗 [GearLead](https://github.com/deeeptanshu/GearLead-Product-Case-Study) — A lead management web app for HSR Motors to track, assign, and analyze customer leads.
+- 🛰️ [LULC-Classification-DeepLearning](https://github.com/deeeptanshu/LULC-Classification-DeepLearning) — Real-time land use and land cover classification using satellite imagery and deep learning.
 - 💬 [Financial Chatbot](https://github.com/deeeptanshu/financial-chatbot) — A Flask-based chatbot providing real-time financial data (revenue, net income, R&D, EPS, cash flow) using the Financial Modeling Prep API.
 - 💼 [BCG-Analysis-Project](https://github.com/deeeptanshu/BCGX-financial-analysis) — Financial data analysis and trend identification project for large companies.
 - 🔐 [Customer-Retention-Dashboard](https://github.com/deeeptanshu/Customer-Retention-Dashboard) — Power BI report for analyzing customer churn and retention metrics.
