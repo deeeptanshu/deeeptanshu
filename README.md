@@ -1,65 +1,59 @@
-<h1 align="center">Hi there, I'm Deeptanshu Khandelwal 👋</h1>
+<h1 align="center">Deeptanshu Khandelwal</h1>
 
 <p align="center">
-  <em>B.Tech ECE @ SRM IST | Product Management | Business/Product Analyst | AI Enthusiast 🚀</em>
+  Growth & AI @ <a href="https://intervue.io">Intervue</a> &nbsp;·&nbsp; Bengaluru
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deeptanshu-khandelwal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:deeptanshukhandelwal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### What I build
 
-🎓 I’m currently pursuing Electronics and Communication Engineering at SRM Institute of Science and Technology (2021–2025)
+I work at [Intervue](https://intervue.io) on growth, AI tooling, and content infrastructure. Most of what I build sits at the intersection of LLMs, automation, and product.
 
-🚀 Currently exploring AI/ML, Product Management & Data Engineering.
-
-💡 Passionate about solving real-world problems — from crypto prediction models to deep learning for satellite image classification
-
-🧠 Strong interests in Product Development, Data Analytics, and Applied AI
-
-📫 Reach me at deeptanshukhandelwal@gmail.com
+- **AI content pipelines** — scrape trends, classify, generate grounded LinkedIn/Twitter posts in a founder's voice, deliver to Slack for review. Runs daily.
+- **Hiring tools** — interactive dashboards and calculators for HR teams (health checks, bandwidth planning, interview process builders)
+- **GTM automation** — outreach workflows, lead enrichment, email sequences
+- **Growth analytics** — SEO tooling, keyword clustering, page performance tracking
 
 ---
 
-### 🛠️ Tech Stack
+### Tech
 
-Languages: Python, R, C++
-
-AI & ML: Predictive Modeling, Neural Networks, LSTM, NLP
-
-Data Tools: SQL, Pandas, NumPy
-
-Visualization: Power BI, Tableau
-
-Simulation & Electronics: Ansys Icepak, CFD
-
-Tools: Git, GitHub, VS Code, PyCharm, Postman
-
-Cloud: AWS (Cloud Foundations, Data Engineering), GCP
+```
+Languages     Python · JavaScript · TypeScript · SQL
+AI / LLMs     Claude API · OpenRouter · Prompt engineering · Agent pipelines
+Backend       Flask · Node.js · Supabase · REST APIs
+Frontend      Vue · HTML/CSS · React
+Data          Pandas · NumPy · Power BI · Tableau
+Infra         Vercel · GitHub Actions · Apify · Slack API
+ML            LSTM · NLP · Deep Learning · Satellite imagery classification
+```
 
 ---
 
-### 🚀 Projects
-- 📝 [AI To-Do Assistant](https://github.com/deeeptanshu/AI-todo-assistant) — An open-source, privacy-first productivity app that uses local AI (phi3 via Ollama) to organize, prioritize, and answer questions about your to-do lists. Built with React and Python, running 100% on your machine.
-- 💬 [Financial Chatbot](https://github.com/deeeptanshu/financial-chatbot) — A Flask-based chatbot providing real-time financial data (revenue, net income, R&D, EPS, cash flow) using the Financial Modeling Prep API.
-- 🚗 [GearLead](https://github.com/deeeptanshu/GearLead-Product-Case-Study) — A lead management web app for HSR Motors to track, assign, and analyze customer leads.
-- 🛰️ [LULC-Classification-DeepLearning](https://github.com/deeeptanshu/LULC-Classification-DeepLearning) — Real-time land use and land cover classification using satellite imagery and deep learning.
-- 💼 [BCG-Analysis-Project](https://github.com/deeeptanshu/BCGX-financial-analysis) — Financial data analysis and trend identification project for large companies.
-- 🔐 [Customer-Retention-Dashboard](https://github.com/deeeptanshu/Customer-Retention-Dashboard) — Power BI report for analyzing customer churn and retention metrics.
-- 🏥 [Customer-Churn-Analysis-PowerBI](https://github.com/deeeptanshu/Customer-Churn-Analysis-PowerBI) — Power BI dashboard analyzing churn drivers, customer profiles, and risk segments.
+### Projects
 
-
----
-
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeptanshu-khandelwal/)                 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:deeptanshukhandelwal@gmail.com)
-
-
-
-
-
+| Project | What it does |
+|---|---|
+| [Social Media Bot](https://github.com/deeeptanshu/social-media-bot) | LLM pipeline: scrapes trends → classifies → generates posts grounded in a DB of real opinions → Slack. Three pipelines: founder LinkedIn, brand content, transcript mining. |
+| [HR Quest](https://github.com/deeeptanshu/HR_Quest) | Pokémon-style RPG for HR professionals built on Vue. Characters are real HR thought leaders. |
+| [Hiring Health Checker](https://github.com/deeeptanshu/Hiring_Health_checker) | Interactive tool for HR teams to assess hiring pipeline health across sourcing, screening, and offers. |
+| [AI Interview Plan Generator](https://github.com/deeeptanshu/AI-interview-Plan-Generator) | Generates structured interview question plans by role and seniority level using AI. |
+| [Hiring Bandwidth Analysis](https://github.com/deeeptanshu/Hiring_Bandwidth_Analysis) | Dashboard to calculate recruiter capacity vs. open roles — flags overload before it hits. |
+| [Financial Chatbot](https://github.com/deeeptanshu/Financial_chatbot) | Flask chatbot for real-time financial data (revenue, EPS, cash flow) via Financial Modeling Prep API. |
+| [LULC Deep Learning](https://github.com/deeeptanshu/LULC-Classification-DeepLearning) | Real-time land use classification from satellite imagery using deep learning. |
+| [GTM Automation](https://github.com/deeeptanshu/GTM_automation) | Outreach workflow automation — personalised email sequences, lead enrichment, HubSpot integration. |
 
 ---
 
-*Thanks for visiting my profile ❤️*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deeeptanshu&show_icons=true&hide_border=true&theme=default&hide=issues&count_private=true" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeeptanshu&layout=compact&hide_border=true&theme=default&langs_count=6" height="150" />
+</p>
