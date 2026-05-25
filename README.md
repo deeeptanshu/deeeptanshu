@@ -14,7 +14,7 @@
 
 ### What I build
 
-I work at [Intervue](https://intervue.io) on growth, AI tooling, and content infrastructure. Most of what I build sits at the intersection of LLMs, automation, and product.
+I work at [Intervue](https://intervue.io) on growth, AI tooling, content and GTM Automation infrastructure. Most of what I build sits at the intersection of LLMs, automation, and product.
 
 - **AI content pipelines** — scrape trends, classify, generate grounded LinkedIn/Twitter posts in a founder's voice, deliver to Slack for review. Runs daily.
 - **GTM automation** — lead enrichment, competitive intelligence, outreach workflows, reactivation engines
